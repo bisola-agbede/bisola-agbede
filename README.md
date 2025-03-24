@@ -1,8 +1,7 @@
 - 👋 Hi, my name is Bisola Agbede
 - 👀 I’m interested in Software engineering / Product design and development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on life changing projects
-- 📫 You can reach me via my emai: bisolaagbede01@gmail.com
+- 💞️ I’m looking to collaborate on life-changing projects
+- 📫 You can reach me via my email: bisolaagbede01@gmail.com
 
 <!---
 bisola-agbede/bisola-agbede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
